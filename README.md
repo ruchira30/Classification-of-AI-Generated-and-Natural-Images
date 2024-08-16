@@ -12,3 +12,6 @@ Implemented a Convolutional Neural Network (CNN) model to classify AI-generated 
   - Achieved 81% accuracy on the self-made dataset.
 - **Evaluation:** Model performance visualized using a confusion matrix to analyze and understand misclassifications.
 
+![Results AI](https://github.com/ruchira30/Classification-of-AI-Generated-and-Natural-Images/blob/main/resultsAI.png)
+![Results AI 1]()
+![Results Real]()
