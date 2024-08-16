@@ -13,3 +13,4 @@ Implemented a Convolutional Neural Network (CNN) model to classify AI-generated 
 - **Evaluation:** Model performance visualized using a confusion matrix to analyze and understand misclassifications.
 
 ![Results Real](https://github.com/ruchira30/Classification-of-AI-Generated-and-Natural-Images/blob/main/resultsreal.png)
+![Results AI](https://github.com/ruchira30/Classification-of-AI-Generated-and-Natural-Images/blob/main/self_aigen.png)
